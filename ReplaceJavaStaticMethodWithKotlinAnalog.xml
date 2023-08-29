@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>309</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity void onItemSelected(android.widget.AdapterView&lt;?&gt; parent, android.view.View v, int position, long id)" />
+  <problem_class id="ReplaceJavaStaticMethodWithKotlinAnalog" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Java methods should be replaced with Kotlin analog</problem_class>
+  <description>Should be replaced with Kotlin function</description>
+  <highlighted_element>max</highlighted_element>
+  <language>kotlin</language>
+  <offset>35</offset>
+  <length>3</length>
+</problem>
+</problems>

@@ -1,0 +1,418 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/FaceContourGraphic.kt</file>
+  <line>12</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.FaceContourGraphic FaceContourGraphic(com.example.textrecognisation.GraphicOverlay overlay)" />
+  <offset>24</offset>
+  <length>26</length>
+  <highlighted_element>(overlay: GraphicOverlay?)</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/FaceContourGraphic.kt</file>
+  <line>34</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.FaceContourGraphic void updateFace(com.google.mlkit.vision.face.Face face)" />
+  <offset>4</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>14</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.GraphicOverlay previewWidth" />
+  <offset>4</offset>
+  <length>28</length>
+  <highlighted_element>private var previewWidth = 0</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>16</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.GraphicOverlay previewHeight" />
+  <offset>4</offset>
+  <length>29</length>
+  <highlighted_element>private var previewHeight = 0</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>19</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.GraphicOverlay graphics" />
+  <offset>4</offset>
+  <length>53</length>
+  <highlighted_element>private val graphics: MutableSet&lt;Graphic&gt; = HashSet()</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>27</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay.Graphic void draw(android.graphics.Canvas canvas)" />
+  <offset>8</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Abstract method is not implemented OR&lt;/li&gt;&lt;li&gt;Implementation class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>57</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay.Graphic android.content.Context getApplicationContext()" />
+  <offset>8</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>61</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay.Graphic android.content.Context getApplicationContext()" />
+  <offset>12</offset>
+  <length>42</length>
+  <highlighted_element>get() = overlay.context.applicationContext</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>97</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void add(com.example.textrecognisation.GraphicOverlay.Graphic graphic)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="graphic" />
+  </hints>
+  <description>Parameter &lt;code&gt;graphic&lt;/code&gt; is not used in either this method or any of its derived methods</description>
+  <highlighted_element>graphic</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>102</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void remove(com.example.textrecognisation.GraphicOverlay.Graphic graphic)" />
+  <offset>4</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>105</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void remove(com.example.textrecognisation.GraphicOverlay.Graphic graphic)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="graphic" />
+  </hints>
+  <description>Parameter &lt;code&gt;graphic&lt;/code&gt; is not used in either this method or any of its derived methods</description>
+  <highlighted_element>graphic</highlighted_element>
+  <language>kotlin</language>
+  <offset>15</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>110</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void setCameraInfo(int previewWidth, int previewHeight, int facing)" />
+  <offset>4</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>114</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void setCameraInfo(int previewWidth, int previewHeight, int facing)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="previewWidth" />
+  </hints>
+  <description>Parameter &lt;code&gt;previewWidth&lt;/code&gt; is not used in either this method or any of its derived methods</description>
+  <highlighted_element>previewWidth</highlighted_element>
+  <language>kotlin</language>
+  <offset>22</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>114</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void setCameraInfo(int previewWidth, int previewHeight, int facing)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="previewHeight" />
+  </hints>
+  <description>Parameter &lt;code&gt;previewHeight&lt;/code&gt; is not used in either this method or any of its derived methods</description>
+  <highlighted_element>previewHeight</highlighted_element>
+  <language>kotlin</language>
+  <offset>41</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>114</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void setCameraInfo(int previewWidth, int previewHeight, int facing)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="facing" />
+  </hints>
+  <description>Parameter &lt;code&gt;facing&lt;/code&gt; is not used in either this method or any of its derived methods</description>
+  <highlighted_element>facing</highlighted_element>
+  <language>kotlin</language>
+  <offset>61</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/LabelGraphic.kt</file>
+  <line>14</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.LabelGraphic LabelGraphic(com.example.textrecognisation.GraphicOverlay overlay, java.util.List&lt;java.lang.String&gt; labels)" />
+  <offset>19</offset>
+  <length>21</length>
+  <highlighted_element>internal constructor(</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>42</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity mFaceButton" />
+  <offset>4</offset>
+  <length>39</length>
+  <highlighted_element>private var mFaceButton: Button? = null</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>48</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity cameraExecutor" />
+  <offset>4</offset>
+  <length>52</length>
+  <highlighted_element>private lateinit var cameraExecutor: ExecutorService</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>55</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity sortedLabels" />
+  <offset>4</offset>
+  <length>67</length>
+  <highlighted_element>private val sortedLabels = PriorityQueue&lt;Map.Entry&lt;String, Float&gt;&gt;(</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>99</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity void processTextRecognitionResult(com.google.mlkit.vision.text.Text texts)" />
+  <offset>4</offset>
+  <length>55</length>
+  <highlighted_element>private fun processTextRecognitionResult(texts: Text) {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>117</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity void takePhoto()" />
+  <offset>4</offset>
+  <length>25</length>
+  <highlighted_element>private fun takePhoto() {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>255</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity int getImageMaxWidth()" />
+  <offset>9</offset>
+  <length>7</length>
+  <highlighted_element>get() {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>272</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity int getImageMaxHeight()" />
+  <offset>9</offset>
+  <length>7</length>
+  <highlighted_element>get() {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>285</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity android.util.Pair&lt;java.lang.Integer,java.lang.Integer&gt; getTargetedWidthHeight()" />
+  <offset>9</offset>
+  <length>7</length>
+  <highlighted_element>get() {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>339</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity DIM_IMG_SIZE_X" />
+  <offset>8</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>343</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity DIM_IMG_SIZE_Y" />
+  <offset>8</offset>
+  <length>38</length>
+  <highlighted_element>private const val DIM_IMG_SIZE_Y = 224</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+</problems>

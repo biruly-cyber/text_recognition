@@ -1,0 +1,162 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/textrecognisation/ExampleInstrumentedTest.kt</file>
+  <line>11</line>
+  <module>TextRecognisation.app.androidTest</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.ExampleInstrumentedTest" />
+  <offset>0</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/textrecognisation/ExampleInstrumentedTest.kt</file>
+  <line>18</line>
+  <module>TextRecognisation.app.androidTest</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.ExampleInstrumentedTest void useAppContext()" />
+  <offset>4</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>11</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.GraphicOverlay" />
+  <offset>0</offset>
+  <length>63</length>
+  <highlighted_element>class GraphicOverlay(context: Context?, attrs: AttributeSet?) :</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>11</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay GraphicOverlay(android.content.Context context, android.util.AttributeSet attrs)" />
+  <offset>20</offset>
+  <length>41</length>
+  <highlighted_element>(context: Context?, attrs: AttributeSet?)</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>39</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.MainActivity" />
+  <offset>0</offset>
+  <length>78</length>
+  <highlighted_element>class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/textrecognisation/ExampleUnitTest.kt</file>
+  <line>7</line>
+  <module>TextRecognisation.app.unitTest</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.ExampleUnitTest" />
+  <offset>0</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/textrecognisation/ExampleUnitTest.kt</file>
+  <line>13</line>
+  <module>TextRecognisation.app.unitTest</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.ExampleUnitTest void addition_isCorrect()" />
+  <offset>4</offset>
+  <length>5</length>
+  <highlighted_element>@Test</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/textrecognisation/ExampleInstrumentedTest.kt</file>
+  <line>11</line>
+  <module>TextRecognisation.app.androidTest</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.ExampleInstrumentedTest" />
+  <offset>0</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>39</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.MainActivity" />
+  <offset>0</offset>
+  <length>78</length>
+  <highlighted_element>class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/textrecognisation/ExampleUnitTest.kt</file>
+  <line>7</line>
+  <module>TextRecognisation.app.unitTest</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.ExampleUnitTest" />
+  <offset>0</offset>
+  <length>3</length>
+  <highlighted_element>/**</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

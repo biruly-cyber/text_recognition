@@ -1,0 +1,26 @@
+<problems>
+<problem>
+  <file>TextRecognisation.app.unitTest</file>
+  <module>TextRecognisation.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="TextRecognisation.app.unitTest" />
+  <problem_class id="UnnecessaryModuleDependencyInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary module dependency</problem_class>
+  <hints>
+    <hint value="TextRecognisation.app.main" />
+  </hints>
+  <description>Module 'TextRecognisation.app.unitTest' sources do not depend on module 'TextRecognisation.app.main' sources</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>TextRecognisation.app.androidTest</file>
+  <module>TextRecognisation.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="TextRecognisation.app.androidTest" />
+  <problem_class id="UnnecessaryModuleDependencyInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary module dependency</problem_class>
+  <hints>
+    <hint value="TextRecognisation.app.main" />
+  </hints>
+  <description>Module 'TextRecognisation.app.androidTest' sources do not depend on module 'TextRecognisation.app.main' sources</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>

@@ -1,0 +1,44 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>254</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity int getImageMaxWidth()" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>imageMaxWidth</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>271</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity int getImageMaxHeight()" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>imageMaxHeight</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>284</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity android.util.Pair&lt;java.lang.Integer,java.lang.Integer&gt; getTargetedWidthHeight()" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>targetedWidthHeight</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+</problems>

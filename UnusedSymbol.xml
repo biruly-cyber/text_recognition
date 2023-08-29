@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/FaceContourGraphic.kt</file>
+  <line>12</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.FaceContourGraphic" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Class &quot;FaceContourGraphic&quot; is never used</description>
+  <highlighted_element>FaceContourGraphic</highlighted_element>
+  <language>kotlin</language>
+  <offset>6</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/FaceContourGraphic.kt</file>
+  <line>38</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.FaceContourGraphic void updateFace(com.google.mlkit.vision.face.Face face)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;updateFace&quot; is never used</description>
+  <highlighted_element>updateFace</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>60</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay.Graphic android.content.Context getApplicationContext()" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Property &quot;applicationContext&quot; is never used</description>
+  <highlighted_element>applicationContext</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>105</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void remove(com.example.textrecognisation.GraphicOverlay.Graphic graphic)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;remove&quot; is never used</description>
+  <highlighted_element>remove</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>114</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.GraphicOverlay void setCameraInfo(int previewWidth, int previewHeight, int facing)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;setCameraInfo&quot; is never used</description>
+  <highlighted_element>setCameraInfo</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/LabelGraphic.kt</file>
+  <line>14</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.LabelGraphic" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Class &quot;LabelGraphic&quot; is never used</description>
+  <highlighted_element>LabelGraphic</highlighted_element>
+  <language>kotlin</language>
+  <offset>6</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>55</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity sortedLabels" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Property &quot;sortedLabels&quot; is never used</description>
+  <highlighted_element>sortedLabels</highlighted_element>
+  <language>kotlin</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>342</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity DIM_IMG_SIZE_X" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Property &quot;DIM_IMG_SIZE_X&quot; is never used</description>
+  <highlighted_element>DIM_IMG_SIZE_X</highlighted_element>
+  <language>kotlin</language>
+  <offset>26</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>343</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="field" FQNAME="com.example.textrecognisation.MainActivity DIM_IMG_SIZE_Y" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Property &quot;DIM_IMG_SIZE_Y&quot; is never used</description>
+  <highlighted_element>DIM_IMG_SIZE_Y</highlighted_element>
+  <language>kotlin</language>
+  <offset>26</offset>
+  <length>14</length>
+</problem>
+</problems>

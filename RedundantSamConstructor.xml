@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>180</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity void startCamera()" />
+  <problem_class id="RedundantSamConstructor" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant SAM constructor</problem_class>
+  <description>Redundant SAM-constructor</description>
+  <highlighted_element>Runnable</highlighted_element>
+  <language>kotlin</language>
+  <offset>41</offset>
+  <length>8</length>
+</problem>
+</problems>

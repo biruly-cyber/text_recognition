@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>220</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity boolean allPermissionsGranted()" />
+  <problem_class id="BooleanMethodIsAlwaysInverted" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Boolean method is always inverted</problem_class>
+  <description>Boolean method 'allPermissionsGranted' is always inverted</description>
+  <highlighted_element>allPermissionsGranted</highlighted_element>
+  <language>kotlin</language>
+  <offset>16</offset>
+  <length>21</length>
+</problem>
+</problems>

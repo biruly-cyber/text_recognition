@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt</file>
+  <line>8</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/GraphicOverlay.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import com.example.textrecognisation.GraphicOverlay.Graphic</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>59</length>
+</problem>
+</problems>

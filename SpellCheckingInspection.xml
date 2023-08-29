@@ -1,0 +1,269 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/textrecognisation/ExampleInstrumentedTest.kt</file>
+  <line>22</line>
+  <module>TextRecognisation.app.androidTest</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.ExampleInstrumentedTest void useAppContext()" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'textrecognisation'</description>
+  <highlighted_element>textrecognisation</highlighted_element>
+  <language>kotlin</language>
+  <offset>34</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+  <line>20</line>
+  <module>TextRecognisation.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Recognisation'</description>
+  <highlighted_element>Recognisation</highlighted_element>
+  <language>XML</language>
+  <offset>40</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>171</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="class" FQNAME="com.example.textrecognisation.MainActivity" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Suurce'</description>
+  <highlighted_element>Suurce</highlighted_element>
+  <language>kotlin</language>
+  <offset>40</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/textrecognisation/MainActivity.kt</file>
+  <line>299</line>
+  <module>TextRecognisation.app.main</module>
+  <package>com.example.textrecognisation</package>
+  <entry_point TYPE="method" FQNAME="com.example.textrecognisation.MainActivity void onItemSelected(android.widget.AdapterView&lt;?&gt; parent, android.view.View v, int position, long id)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'thrid'</description>
+  <highlighted_element>thrid</highlighted_element>
+  <language>kotlin</language>
+  <offset>73</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml</file>
+  <line>3</line>
+  <module>TextRecognisation.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Recognisation'</description>
+  <highlighted_element>Recognisation</highlighted_element>
+  <language>XML</language>
+  <offset>27</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/themes.xml</file>
+  <line>3</line>
+  <module>TextRecognisation.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Recognisation'</description>
+  <highlighted_element>Recognisation</highlighted_element>
+  <language>XML</language>
+  <offset>27</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml</file>
+  <line>10</line>
+  <module>TextRecognisation.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'sharedpref'</description>
+  <highlighted_element>sharedpref</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>81</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'esac'</description>
+  <highlighted_element>esac</highlighted_element>
+  <language>TEXT</language>
+  <offset>0</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>90</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>TEXT</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>110</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'ulimit'</description>
+  <highlighted_element>ulimit</highlighted_element>
+  <language>TEXT</language>
+  <offset>18</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>126</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Xdock'</description>
+  <highlighted_element>Xdock</highlighted_element>
+  <language>TEXT</language>
+  <offset>33</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>126</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'icns'</description>
+  <highlighted_element>icns</highlighted_element>
+  <language>TEXT</language>
+  <offset>93</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>131</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'cygpath'</description>
+  <highlighted_element>cygpath</highlighted_element>
+  <language>TEXT</language>
+  <offset>14</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>137</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'ROOTDIRSRAW'</description>
+  <highlighted_element>ROOTDIRSRAW</highlighted_element>
+  <language>TEXT</language>
+  <offset>4</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>137</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'maxdepth'</description>
+  <highlighted_element>maxdepth</highlighted_element>
+  <language>TEXT</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>137</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mindepth'</description>
+  <highlighted_element>mindepth</highlighted_element>
+  <language>TEXT</language>
+  <offset>40</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>140</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'ROOTDIRS'</description>
+  <highlighted_element>ROOTDIRS</highlighted_element>
+  <language>TEXT</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>143</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'OURCYGPATTERN'</description>
+  <highlighted_element>OURCYGPATTERN</highlighted_element>
+  <language>TEXT</language>
+  <offset>4</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>145</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'CYGPATTERN'</description>
+  <highlighted_element>CYGPATTERN</highlighted_element>
+  <language>TEXT</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>151</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'egrep'</description>
+  <highlighted_element>egrep</highlighted_element>
+  <language>TEXT</language>
+  <offset>27</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>183</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Dorg'</description>
+  <highlighted_element>Dorg</highlighted_element>
+  <language>TEXT</language>
+  <offset>58</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/gradlew</file>
+  <line>183</line>
+  <module>TextRecognisation</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appname'</description>
+  <highlighted_element>appname</highlighted_element>
+  <language>TEXT</language>
+  <offset>70</offset>
+  <length>7</length>
+</problem>
+</problems>
